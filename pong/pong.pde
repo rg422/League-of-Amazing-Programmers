@@ -1,5 +1,4 @@
 int speedX = 7;
-/ fgdfgdfg
 int speedY = 7;
 int X = (int) random(1000);
 int Y = 0;
